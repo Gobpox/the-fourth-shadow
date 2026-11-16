@@ -1,5 +1,10 @@
 # The Fourth Shadow
 
+[![make.fun competition](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01)
+[![make.fun rank](https://make.fun/badge/ai-excited-01/Gobpox/the-fourth-shadow/rank.svg)](https://make.fun/bounty/ai-excited-01)
+[![make.fun reward](https://make.fun/badge/ai-excited-01/Gobpox/the-fourth-shadow/reward.svg)](https://make.fun/bounty/ai-excited-01)
+
+
 Three children tell ghost stories inside a tent, their shadows dancing across the fabric. A fourth, horned shadow belongs to none of them. Its claw tears through the tent as the story comes true.
 
 Run with Python 3; no additional packages are required:
